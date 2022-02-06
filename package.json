@@ -1,0 +1,16 @@
+{
+  "name": "kpfcbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Dmitrii Shamal <digr98@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15"
+  }
+}
